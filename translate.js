@@ -61,7 +61,6 @@ const translations = {
         "footer-gallery": "Gallery",
         "footer-contact": "Contact",
 
-        "footer-copyright": "Copyright &copy; All rights reserved | This template is made with ❤️ by Colorlib",
         "hero-title": "About Me",
         "team1-title": "Body Building",
         "team1-desc": "Learn proper body building techniques.",
@@ -213,7 +212,6 @@ const translations = {
         "footer-pricing": "الأسعار",
         "footer-gallery": "المعرض",
 
-        "footer-copyright": "حقوق النشر &copy; جميع الحقوق محفوظة | هذا القالب تم تصميمه بواسطة ❤️ Colorlib",
         "hero-title": "عنّي",
         "team1-title": "بناء الجسم",
         "team1-desc": "تعلم تقنيات بناء الجسم الصحيحة.",
